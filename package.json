@@ -1,0 +1,10 @@
+{
+  "name": "queue-problem",
+  "version": "1.0.0",
+  "description": "Queue optimisation",
+  "author": "Timur Sevimli svmlitimur@gmail.com",
+  "license": "MIT",
+  "dependencies": {
+    "p-limit": "^5.0.0"
+  }
+}
